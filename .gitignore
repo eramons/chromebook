@@ -1,0 +1,4 @@
+bootloader.bin
+DELETE
+vmlinux.uimg
+vmlinux.kpart
