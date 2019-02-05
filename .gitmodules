@@ -1,8 +1,6 @@
-[submodule "debian kernel"]
+[submodule "debian"]
 	path = linux
 	url = https://salsa.debian.org/kernel-team/linux.git
-
-[submodule "linux kernel"]
+[submodule "mainline"]
 	path = linux-git
 	url = git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
-

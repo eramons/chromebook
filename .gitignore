@@ -1,4 +1,5 @@
 bootloader.bin
-DELETE
+files
 vmlinux.uimg
 vmlinux.kpart
+.config
